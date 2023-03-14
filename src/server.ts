@@ -9,7 +9,6 @@ app.use(cors({
   credentials: true
 }));
 
-
 // configure routes
 routes.register(app);
 
